@@ -41,13 +41,13 @@
 5. 샘플 코드 예시
 
 6. Demo Project Description(작성 중 - 추가예정)
-  6-1. Evirironment
-  6-2. Featrues
-  6-3. Architecture
-  6-4. Usage
-  6-5. PreView
-  6-6. UI
-  6-7. Apk Download 경로
+  - Environment
+  - Featrues
+  - Architecture
+  - Usage
+  - PreView
+  - UI
+  - Apk Download 경로
   
 * 기타 내용들은 필요한 부분을 우선적으로 다룰 예정
 
